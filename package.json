@@ -1,6 +1,6 @@
 {
-    "name": "componentsui",
-    "version": "0.8.4",
+    "name": "@mollaizet/componentsui",
+    "version": "0.1.0",
     "license": "MIT",
     "description": "A Modern and Minimal React UI Library built with TailwindCSS. Designed to provide you with a simple and intuitive set of UI components that are easy to use, customize and integrate into your React application.",
     "homepage": "https://izetmolla.com/",
