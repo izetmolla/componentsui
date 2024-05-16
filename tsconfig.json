@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+        // "baseUrl": ".",
+        "target": "esnext",
+        "module": "esnext",
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ESNext"
+        ],
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": true,
+        "declarationDir": "dist",
+        "outDir": "dist",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "strict": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "downlevelIteration": true,
+        "skipLibCheck": true,
+        "noEmit": true
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "dist",
+        "build",
+        "node_modules",
+        "storybook-static",
+        "coverage",
+        "jest.config.js",
+        "stories",
+        "tests"
+    ]
+}
